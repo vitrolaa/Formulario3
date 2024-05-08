@@ -1,0 +1,52 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+
+.titulo {
+    text-align: center;
+    margin-bottom: 20px;
+   margin-top: 100px;
+   margin-right: 280px;
+   margin-left: 280px;
+    background: linear-gradient(90deg, rgb(116, 227, 255) 35%, rgb(25, 0, 255) 100%);
+}
+
+
+form {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    
+}
+
+input[type="text"], input[type="email"], input[type="password"], input[type="number"],  select, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    
+}
+
+#check label {
+    margin-bottom: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    margin-right: 10px;
+    
+}
+
+fieldset {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+
